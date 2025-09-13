@@ -1,0 +1,9 @@
+{
+	"name": "newpracticedf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bb71e3b-020b-4dfe-aa47-da65a5f4cb29",
+		"tenantId": "d0ddcb89-f443-4a40-8ae1-f2270fa1c4bc"
+	}
+}

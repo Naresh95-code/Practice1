@@ -1,0 +1,6 @@
+{
+	"name": "shsql",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

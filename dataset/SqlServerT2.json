@@ -1,0 +1,13 @@
+{
+	"name": "SqlServerT2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerpra",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
