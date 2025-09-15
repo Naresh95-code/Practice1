@@ -1,0 +1,25 @@
+{
+	"name": "pipeline2",
+	"properties": {
+		"activities": [
+			{
+				"name": "Validation1",
+				"type": "Validation",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"dataset": {
+						"referenceName": "DelimitedText11",
+						"type": "DatasetReference",
+						"parameters": {
+							"gm": "college details.xlsx"
+						}
+					},
+					"timeout": "0.12:00:00",
+					"sleep": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
