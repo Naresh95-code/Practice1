@@ -1,5 +1,5 @@
 {
-	"name": "Binary1",
+	"name": "Binary3",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "Emp Table.xlsx",
-				"fileSystem": "inputpractice"
+				"fileName": "Salary details.csv",
+				"fileSystem": "outputpractice"
 			}
 		}
 	}
